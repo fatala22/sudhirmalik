@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Web page of Sudhir Malik
 
 You can use the [editor on GitHub](https://github.com/fatala22/sudhirmalik/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
